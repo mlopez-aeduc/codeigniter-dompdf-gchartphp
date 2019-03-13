@@ -1,4 +1,4 @@
-# Codeigniter DOMPdf gCharPHP
+# Codeigniter DOMPdf gChartPHP
 
 Proyecto que permite desde CodeIgniter mostrar archivos PDF con gráficos utilizando solo PHP.
 
